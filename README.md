@@ -17,15 +17,15 @@ We often choose easy now, which leads to complexity later.
 
 ## Table of Contents
 
-- #1-simple-vs-easy
-- #2-where-complexity-comes-from
-- #3-why-simplicity-helps
-- #4-how-to-keep-things-simple
-- #5-choose-tools-for-the-result
-- #6-simplicity-takes-effort
-- #one-sentence-summary
-- #examples
-- #code--inline-formatting-examples
+- [#1-simple-vs-easy](#1-simple-vs-easy)
+- [#2-where-complexity-comes-from](#2-where-complexity-comes-from)
+- [#3-why-simplicity-helps](#3-why-simplicity-helps)
+- [#4-how-to-keep-things-simple](#4-how-to-keep-things-simple)
+- [#5-choose-tools-for-the-result](#5-choose-tools-for-the-result)
+- [#6-simplicity-takes-effort](#6-simplicity-takes-effort)
+- [#one-sentence-summary](#one-sentence-summary)
+- [#examples](#examples)
+- [#code--inline-formatting-examples](#code--inline-formatting-examples)
 
 ---
 
